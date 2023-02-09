@@ -1,0 +1,39 @@
+id: b6df3888177b486e948206c6b5e160f0
+annotation_type: index
+revision: '00001'
+annotations:
+  57e0bd98b12140c1ad9984e5e307af75:
+    base: 4169.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 9
+    - title: Preface
+      span:
+        start: 10
+        end: 32
+    - title: Chapter 1
+      span:
+        start: 33
+        end: 8294
+    - title: Chapter 2
+      span:
+        start: 8295
+        end: 13737
+    - title: Chapter 3
+      span:
+        start: 13738
+        end: 14848
+    - title: Chapter 4
+      span:
+        start: 14849
+        end: 25099
+    - title: Chapter 5
+      span:
+        start: 25100
+        end: 33001
+    - title: Colophon
+      span:
+        start: 33002
+        end: 33012

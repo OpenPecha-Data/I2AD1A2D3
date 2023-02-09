@@ -1,0 +1,16 @@
+id: I2AD1A2D3
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:32:19.180904
+last_modified: 2023-02-10 00:32:19.181025
+source_metadata:
+  title: 'Nāgārjuna: Ratnāvalī'
+  language: sa
+bases:
+  '4169':
+    base_file: 4169.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
